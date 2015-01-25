@@ -1,7 +1,7 @@
 PRODUCT_COPY_FILES += \
 	vendor/bq/kaito_wifi/propietary/bin/nvram_daemon:system/bin/nvram_daemon \
 	vendor/bq/kaito_wifi/propietary/bin/mdnsd:system/bin/mdnsd \
-	vendor/bq/kaito_wifi/propietary/bin/bmm055d:system/bin/bmm055d \
+	vendor/bq/kaito_wifi/propietary/bin/bmm050d:system/bin/bmm050d \
 	vendor/bq/kaito_wifi/propietary/bin/bmm056d:system/bin/bmm056d \
 	vendor/bq/kaito_wifi/propietary/bin/ccci_mdinit:system/bin/ccci_mdinit \
 	vendor/bq/kaito_wifi/propietary/bin/thermal_manager:system/bin/thermal_manager \

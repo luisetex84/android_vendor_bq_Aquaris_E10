@@ -1,6 +1,6 @@
 bin/nvram_daemon
 bin/mdnsd
-bin/bmm055d
+bin/bmm050d
 bin/bmm056d
 bin/ccci_mdinit
 bin/thermal_manager
